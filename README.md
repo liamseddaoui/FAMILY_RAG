@@ -313,5 +313,9 @@ Voir [eval/README.md](eval/README.md). Cet ajout ne change ni le comportement de
 
 ---
 
-**Author:** [Liam Seddaoui](https://liamseddaoui.com), AI Platform Engineer · LLMOps · Agents · Build & Run
+<div align="center">
+
+**Author:** [Liam Seddaoui](https://liamseddaoui.com), AI Platform Engineer · LLMOps · Agents · Build & Run — voir [LICENSE](LICENSE)
+
+</div>
 
